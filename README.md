@@ -1,7 +1,7 @@
 _Maria Eduarda Cordeiro Haenisch_ ✨ 
 
-. Estudante do Wilson Joffre 👩‍🎓 
-. 1° ano do Ensino Médio 
+-Estudante do Wilson Joffre 👩‍🎓 
+-. 1° ano do Ensino Médio 
 . Alura 
 . P5js
 . Scratch
